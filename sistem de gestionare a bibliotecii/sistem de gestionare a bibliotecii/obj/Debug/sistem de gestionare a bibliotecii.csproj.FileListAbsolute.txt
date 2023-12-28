@@ -1,0 +1,113 @@
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\sistem de gestionare a bibliotecii.exe.config
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\sistem de gestionare a bibliotecii.exe
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\sistem de gestionare a bibliotecii.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.csprojAssemblyReference.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem_de_gestionare_a_bibliotecii.Biblioteca.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem_de_gestionare_a_bibliotecii.Properties.Resources.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.csproj.GenerateResource.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.csproj.CoreCompileInputs.cache
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.exe
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.pdb
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\sistem de gestionare a bibliotecii.exe.CodeAnalysisLog.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\sistem de gestionare a bibliotecii.exe.lastcodeanalysissucceeded
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem_de_gestionare_a_bibliotecii.Carti.resources
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.exe.config
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\netstandard.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.AppContext.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Collections.Concurrent.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Collections.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Collections.NonGeneric.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Collections.Specialized.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ComponentModel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ComponentModel.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Console.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Data.Common.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.Contracts.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.Debug.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.Process.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.Tools.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Diagnostics.Tracing.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Drawing.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Dynamic.Runtime.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Globalization.Calendars.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Globalization.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Globalization.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.Compression.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.FileSystem.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.IsolatedStorage.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.Pipes.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Linq.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Linq.Expressions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Linq.Parallel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Linq.Queryable.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Http.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.NameResolution.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.NetworkInformation.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Ping.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Requests.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Security.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.Sockets.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.WebSockets.Client.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Net.WebSockets.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ObjectModel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Reflection.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Reflection.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Reflection.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Resources.Reader.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Resources.ResourceManager.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Resources.Writer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Handles.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.InteropServices.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Numerics.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Claims.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.Principal.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Security.SecureString.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Text.Encoding.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Text.RegularExpressions.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.Overlapped.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.Tasks.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.Thread.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.ThreadPool.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Threading.Timer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.ValueTuple.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.ReaderWriter.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.XDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.XmlDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.XmlSerializer.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.XPath.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\Serilog.dll
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\bin\Debug\Serilog.xml
+C:\partitia d\Visual Studio\visual studio proiecte\Biblioteca\sistem de gestionare a bibliotecii\sistem de gestionare a bibliotecii\obj\Debug\sistem de gestionare a bibliotecii.csproj.CopyComplete
